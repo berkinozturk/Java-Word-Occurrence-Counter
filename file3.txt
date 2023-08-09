@@ -1,0 +1,4 @@
+Java, C++, and Python are popular programming languages.
+Java's syntax is distinct yet readable.
+Java offers platform independence through its virtual machine.
+Java applications are used in enterprise software and scientific computing.
